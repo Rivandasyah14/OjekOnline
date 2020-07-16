@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837285877151",
+    "firebase_url": "https://ojek-online-959ee.firebaseio.com",
+    "project_id": "ojek-online-959ee",
+    "storage_bucket": "ojek-online-959ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837285877151:android:ed5de8f49b515e49d1d9aa",
+        "android_client_info": {
+          "package_name": "com.rivaphy.ojekonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837285877151-7sb909fnpt9o77i70v9cg52fi6kn4mho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZW_tqnAv619z8GIwpt5uhi_hS4UlHTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837285877151-7sb909fnpt9o77i70v9cg52fi6kn4mho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
