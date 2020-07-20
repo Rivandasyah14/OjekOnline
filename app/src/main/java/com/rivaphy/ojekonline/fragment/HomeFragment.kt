@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 
 import com.rivaphy.ojekonline.R
+import kotlinx.android.synthetic.main.fragment_home.*
 
 /**
  * A simple [Fragment] subclass.
@@ -22,5 +23,12 @@ class HomeFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_home, container, false)
     }
 
+    //menginisialisasi dari mapsview
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        mapView.onCreate(savedInstanceState)
+        mapView.getMapAsync { this }
+    }
 
 }

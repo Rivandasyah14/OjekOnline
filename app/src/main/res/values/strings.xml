@@ -24,4 +24,11 @@
     <string name="estimasi_waktu">Estimasi Waktu</string>
     <string name="_3_menit">3 Menit</string>
     <string name="pesan">Pesan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="serpong_tanggerang">Serpong, Tanggerang</string>
+    <string name="_nama">Rivanda M</string>
+    <string name="namaaku">Rivanda</string>
+    <string name="emailku">mahdiyansyahr@gmail.com</string>
+    <string name="hpku">08996366785</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
