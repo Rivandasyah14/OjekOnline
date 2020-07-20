@@ -155,7 +155,7 @@ class GPSTrack(c: Context) : Service(), LocationListener {
         }
     }
 
-    private fun showSettingGPS() {
+    fun showSettingGPS() {
         val alertBuilder = AlertDialog.Builder(context)
 
         alertBuilder.setTitle("GPS Setting")
